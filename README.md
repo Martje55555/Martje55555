@@ -24,6 +24,6 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Martje55555&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react" />
 </a>
 </div>
