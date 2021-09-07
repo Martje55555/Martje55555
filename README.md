@@ -19,11 +19,17 @@
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Martje55555&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=tokyonight)
 -->
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Martje55555&theme=react">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Martje55555&count_private=true&show_icons=true&theme=react" />
 </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=Martje55555&&theme=react">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Martje55555&&theme=react" />
+</a>
+ <br>
+ <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react" />
 </a>
 </div>
