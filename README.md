@@ -5,6 +5,7 @@
 ## :technologist:	About Me: 
   * :mortar_board: I am a CMPE Senior at The University of Texas Rio Grande Valley
   * :incoming_envelope: Ex-Software Engineer Intern at [Lob](https://lob.com) in Summer 2021 :mailbox_with_mail:	
+  * 👀 Read about some of the work I did while interning at Lob and protecting privacy with data redaction. [Link](https://www.lob.com/blog/protecting-privacy-with-data-redaction) 📖
   * :nerd_face:	TA for Department of Computer Science at [UTRGV](https://www.utrgv.edu/csci/) for the Data Structures & Algorithms course
   * :video_game: I love video games, :martial_arts_uniform: Brazilian Jiu-Jitsu, :basketball: and Basketball
 
