@@ -3,7 +3,7 @@
 ## Hello :wave:, I am [Jesus Martinez](https://martje55555.github.io)  :shipit:
 
 ## :technologist:	About Me: 
-  * :mortar_board: I am a CMPE Senior at The University of Texas Rio Grande Valley
+  * :mortar_board: I am a CMPE Senior at The University of Texas Rio Grande Valley 🎒
   * 💻 Incoming Software Engineer Intern at [P&G](https://www.pgcareers.com/internships) for Summer 2022 🖱️
   * :nerd_face:	Undergraduate Research Assistant for [CREST MECIS](https://www.utrgv.edu/innovation/news/news-stories/crest/index.htm) at UTRGV funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112650&HistoricalAwards=false) | Member of the [H-SMART Lab](https://fatemehnazari.weebly.com/members.html)
   * :incoming_envelope: Ex-Software Engineer Intern at [Lob](https://lob.com) in Summer 2021 :mailbox_with_mail:
