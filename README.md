@@ -1,6 +1,7 @@
-:octocat:	 ![](https://visitor-badge.laobi.icu/badge?page_id=Martje55555.Martje55555)	
+:octocat:	 ![](https://visitor-badge.laobi.icu/badge?page_id=Martje55555.Martje55555)
 
-## Hello :wave:, I am [Jesus Martinez](https://martje55555.github.io)  :shipit:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is [Jesus Martinez](https://martje55555.github.io)  :shipit:
+======================================================================================================================================
 
 ## :technologist:	About Me: 
   * :mortar_board: I am a CMPE Senior at The University of Texas Rio Grande Valley 🎒
@@ -31,7 +32,6 @@
 </a>
  <br>
  <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=php&theme=react" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=Jupyter%20%Notebook&theme=react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=jupyter%20%notebook&theme=react" />
 </a>
-</div>
