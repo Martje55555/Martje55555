@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## :technologist:	About Me: 
   * :mortar_board: I am a CMPE Senior at The University of Texas Rio Grande Valley 🎒
-  * 💻 Software Engineer Intern at [P&G](https://www.pgcareers.com/internships) for Summer 2022 🖱️
+  * 🖥️ Data Science Intern at [USDA](https://www.usda.gov/da/ohs) 🪴
+  * 💻 Ex-Software Engineer Intern at [P&G](https://www.pgcareers.com/internships) for Summer 2022 🖱️
   * :nerd_face:	Ex-Research Assistant for [CREST MECIS](https://www.utrgv.edu/mecis/) at UTRGV funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112650&HistoricalAwards=false) | Member of the [H-SMART Lab](https://fatemehnazari.weebly.com/members.html) 🚗
   * :incoming_envelope: Ex-Software Engineer Intern at [Lob](https://lob.com) in Summer 2021 :mailbox_with_mail:
   * 👀 Read my blog about protecting privacy with data redaction while interning at Lob. [Link](https://www.lob.com/blog/protecting-privacy-with-data-redaction) 📖
