@@ -3,8 +3,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is [Jesus Martinez](https://martje55555.github.io)  :shipit:
 ======================================================================================================================================
 
-## :technologist:	About Me: 
-  * :mortar_board: I am a CMPE Senior at The University of Texas Rio Grande Valley 🎒
+## :technologist:	About Me:
+  * ☁️ Cloud Data Engineer at [P&G]([https://www.pgcareers.com/internships](https://www.pgcareers.com/job/cincinnati/data-engineer-data-and-analytics/936/7280840368)) 🔁
+  * :mortar_board: CMPE graduate (2022) at The University of Texas Rio Grande Valley 🎒
   * 🖥️ Ex-Data Science Intern at [USDA](https://www.usda.gov/da/ohs) Fall 2022 🪴
   * 💻 Ex-Software Engineer Intern at [P&G](https://www.pgcareers.com/internships) for Summer 2022 🖱️
   * :nerd_face:	Ex-Research Assistant for [CREST MECIS](https://www.utrgv.edu/mecis/) at UTRGV funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112650&HistoricalAwards=false) | Member of the [H-SMART Lab](https://fatemehnazari.weebly.com/members.html) 🚗
