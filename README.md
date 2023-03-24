@@ -5,12 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## :technologist:	About Me:
   * ☁️ Cloud Data Engineer at [P&G]([https://www.pgcareers.com/internships](https://www.pgcareers.com/job/cincinnati/data-engineer-data-and-analytics/936/7280840368)) 🔁
+  * 🆓 Freelance Technical Writer & Engineer 📑
   * :mortar_board: CMPE graduate (2022) at The University of Texas Rio Grande Valley 🎒
-  * 🖥️ Ex-Data Science Intern at [USDA](https://www.usda.gov/da/ohs) Fall 2022 🪴
-  * 💻 Ex-Software Engineer Intern at [P&G](https://www.pgcareers.com/internships) for Summer 2022 🖱️
-  * :nerd_face:	Ex-Research Assistant for [CREST MECIS](https://www.utrgv.edu/mecis/) at UTRGV funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2112650&HistoricalAwards=false) | Member of the [H-SMART Lab](https://fatemehnazari.weebly.com/members.html) 🚗
-  * :incoming_envelope: Ex-Software Engineer Intern at [Lob](https://lob.com) in Summer 2021 :mailbox_with_mail:
-  * 👀 Read my article about protecting privacy with data redaction while interning at Lob. [Link](https://www.lob.com/blog/protecting-privacy-with-data-redaction) 📖
   * :video_game: I love video games, :martial_arts_uniform: Brazilian Jiu-Jitsu, :basketball: and Basketball
 
 ## :earth_americas: Find Me On:
