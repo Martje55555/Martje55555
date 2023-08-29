@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   * ☁️ Cloud Data Engineer at [P&G]([https://www.pgcareers.com/internships](https://www.pgcareers.com/job/cincinnati/data-engineer-data-and-analytics/936/7280840368)) 🔁
   * 🆓 Freelance Technical Writer & Engineer 📑
   * :mortar_board: CMPE graduate (2022) at The University of Texas Rio Grande Valley 🎒
-  * :video_game: I love video games, :martial_arts_uniform: Brazilian Jiu-Jitsu, :basketball: and Basketball
+  * Hobbies: :video_game: Video Games, :martial_arts_uniform: Brazilian Jiu-Jitsu, :basketball: and Basketball
 
 ## :earth_americas: Find Me On:
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martje55555)
