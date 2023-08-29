@@ -33,6 +33,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=Jupyter%20%Notebook&theme=react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martje55555&hide=jupyter%20%notebook&theme=react" />
 </a>
-<img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<!--<img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>-->
 </div>
  
