@@ -1,6 +1,6 @@
 :octocat:	 ![](https://visitor-badge.laobi.icu/badge?page_id=Martje55555.Martje55555)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is [Jesus Martinez](https://martje55555.github.io)  :shipit:
+Hi, My name is [Jesus Martinez](https://martje55555.github.io)  :shipit:
 ======================================================================================================================================
 
 ## :technologist:	About Me:
